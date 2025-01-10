@@ -126,7 +126,7 @@ https://koinx-backend-assignment-new.onrender.com/deviation?coin=bitcoin
 - node-cron ( for sheduling job every 2 hours ) 
 
 --- 
-# Installation & Steps to Run the Project Your Locally Storage
+# Installation & Steps to Run the Project Locally
 1. Download or Clone the repository:
 ```
  git clone https://github.com/arvindk2025/Koinx_Backend_Assignment_New.git
