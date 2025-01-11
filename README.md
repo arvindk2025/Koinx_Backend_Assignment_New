@@ -101,6 +101,7 @@ http://localhost:8800/deviation?coin=bitcoin
 
 ##  Testing: 
 ### For Testing this Server App using Deployed Link in POSTMAN use following URL
+### Note: On Render, Because of inactivity, only the first response may sometimes take nearly up to 1 minute.
 
 - **Task-2** : GET request to fetch the latest stats for a specific cryptocurrency
 ```
